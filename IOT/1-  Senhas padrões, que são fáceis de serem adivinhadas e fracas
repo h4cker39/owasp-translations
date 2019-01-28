@@ -1,0 +1,3 @@
+1.	Senhas padrões, que são fáceis de serem adivinhadas e fracas.
+
+Uso de credenciais fáceis de sofrerem ataques de brute-force , ou credenciais que não mudam, incluindo backdoors em firmwares ou clients de software que garantem acesso aos sistemas que estão produção ou em deploy.

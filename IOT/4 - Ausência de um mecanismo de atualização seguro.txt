@@ -1,0 +1,3 @@
+4.	  Ausência de um mecanismo de atualização seguro
+
+Ausência de habilidade de atualizar o dispositivo. Isso inclui ausência de validação de firmware, ausência de entrega segura(transição não criptografado), ausência de mecanismo anti-rollback e ausência de notificações de mudanças de segurança  devido a atualizações.

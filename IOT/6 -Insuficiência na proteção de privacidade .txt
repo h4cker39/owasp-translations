@@ -1,0 +1,3 @@
+6.	Insuficiência na proteção de privacidade 
+
+Informações pessoais do usuário armazenados no dispositivo ou no ecossistema que são usados de maneira insegura, impróprio ou sem permissão.

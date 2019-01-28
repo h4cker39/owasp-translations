@@ -1,0 +1,3 @@
+5.	Uso de 	componentes descontinuados ou desatualizados
+
+Uso de software descontinuados ou softwares inseguros (componentes/bibliotecas) que permite  o dispositivo ser comprometido. Isso inclui customização inseguro de  plataformas de sistemas operacionais, o uso de software terceiros ou componentes físicos(hardware) vindos de uma cadeia de mantimentos comprometidos. 

@@ -1,0 +1,3 @@
+9.	Configurações padrões inseguros
+
+Dispositivos ou sistemas ou sistema que são enviados com configurações padrões ou ausentam-se da habilidade de fazerem o sistema mais seguro, por restringir operadores de modificarem o sistema.

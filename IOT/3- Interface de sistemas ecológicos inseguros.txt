@@ -1,2 +1,3 @@
 3.	Interface de sistemas ecológicos inseguros
-Sistemas web inseguros, API de backend ou interfaces mobile no ecossistema fora do dispositivo que permite o comprometimento do dispositivo ou seus componentes que possuem alguma relação. Problemas relacionados incluem falta de autenticação/autorização, ausência de criptografia ou fracas e ausência de filtro de entrada e saída de dados.
+
+Sistemas de web inseguros, cloud, API de backend ou interfaces mobile no ecossistema fora do dispositivo que permite o comprometimento do dispositivo ou seus componentes que possuem alguma relação. Problemas relacionados incluem falta de autenticação/autorização, ausência de criptografia ou sendo o mesmo fraco e ausência de filtro de entrada e saída de dados.

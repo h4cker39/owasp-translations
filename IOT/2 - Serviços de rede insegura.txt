@@ -1,2 +1,3 @@
-2.	Serviços de rede insegura
-Serviços de rede que não são necessários ou serviços de rede inseguros que estão rodando no próprio dispositivo, principalmente aqueles que são exposto para a internet, dos quais comprometem confidencialidade, integridade/autenticidade ou disponibilidade da informação ou autorização de controle remoto.
+2. Serviços de rede insegura
+
+Serviços de rede que não são necessários ou serviços de rede inseguros que estão rodando no próprio dispositivo, principalmente aqueles que são exposto para a internet, dos quais comprometem confidencialidade, integridade/autenticidade ou disponibilidade da informação ou permissão de controle remoto não autorizado.

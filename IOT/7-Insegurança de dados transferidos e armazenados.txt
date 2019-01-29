@@ -1,3 +1,3 @@
-7.	Insegurança de dados transferidos e armazenados
+7.	Dados transmitidos e armazenados de forma insegura.
 
 Ausência de criptografia ou controle de acesso de dados sensíveis em quais quer lugar do ecossistema, incluindo at-rest (armazenados), in transit(em movimento) ou durante o processamento.

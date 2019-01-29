@@ -1,3 +1,4 @@
-1.	Senhas padrões, que são fáceis de serem adivinhadas e fracas.
+1.	Senhas fracas, adivinháveis ou senhas padronizadas
 
-Uso de credenciais fáceis de sofrerem ataques de brute-force , ou credenciais que não mudam, incluindo backdoors em firmwares ou clients de software que garantem acesso aos sistemas que estão produção ou em deploy.
+Uso de senhas suscetíveis a ataques de brute force, senhas públicas disponíveis ou credenciais que não se alterem, incluindo 
+backdoors em firmwares ou client de software, que garante o acesso mão autorizado de sistemas em produção/deploy.
